@@ -2,5 +2,5 @@
 
 Aplicativo para favoritar personagens.
 
-Projeto sendo testado e usado também em [expo](https://snack.expo.dev/@desenvolvedor_2020/projectsw).
+Projeto de Teste React Native consumo API em [expo](https://snack.expo.dev/@desenvolvedor_2020/projectsw).
 
